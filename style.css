@@ -10,7 +10,9 @@ h1{
  font-family: Arial;
   colour:black
  }
- body{
-  background-colour: #33ccff;
+ div{
+  background-color: #ff9993;
+    color: #ffffff;
+    padding: 20px;
 }
 
