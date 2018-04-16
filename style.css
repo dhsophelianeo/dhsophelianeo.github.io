@@ -10,6 +10,7 @@ h1{
  font-family: Arial;
   colour:black
  }
- 
-  <body bgcolour="#ffe6e6">
+ body{
+  background-colour: #33ccff;
+}
 
